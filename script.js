@@ -1,5 +1,5 @@
 let currentPage = 0;
-    const itemsPerPage = 18;
+    const itemsPerPage = 24;
 
     function displayImages() {
         const containers = document.querySelectorAll('.image-container');
